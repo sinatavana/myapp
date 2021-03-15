@@ -1,0 +1,12 @@
+
+
+.root{
+   -fx-background-color:"black" ;
+    -fx-alignment: "";
+}
+#l1{
+ -fx-background-color:"green" ;
+  -fx-text-fill: "red";
+
+
+}
